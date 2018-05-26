@@ -1,0 +1,3 @@
+ShiftRegister74HC595	KEYWORD1
+
+ascii	KEYWORD2
